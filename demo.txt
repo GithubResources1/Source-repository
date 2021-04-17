@@ -1,5 +1,9 @@
 This is my new demo file after a fork 
 This is the second line
 This is another line
+<<<<<<< HEAD
 This a new line from local
 this is another line from local
+=======
+This is the fourth line from server
+>>>>>>> 5d75c83ef34c8a736e9ca6fd5660fa435c08d462
