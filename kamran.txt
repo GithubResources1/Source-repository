@@ -1,0 +1,10 @@
+This is fork tutorial
+forked from javed github
+cloned into local repo
+adding new file "kamran.txt"
+git status
+git add .
+git commit
+git push
+verify the changes
+
