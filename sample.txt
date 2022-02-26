@@ -1,0 +1,5 @@
+vi sample.txt
+press i
+abdce
+eftght
+
